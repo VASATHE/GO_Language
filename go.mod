@@ -1,3 +1,3 @@
-module Day2
+module Calculattor
 
 go 1.25.5
