@@ -1,3 +1,3 @@
-module GO_language
+module Day2
 
 go 1.25.5
